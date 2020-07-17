@@ -32,7 +32,7 @@ const search = require('yt-search');
 const configs = require("./configs.json");
 const timestamp = require("console-timestamp");
 var botConfigs = {
-    token: "NzMzNzAzMzczODA2NzY0MDU0.XxHBRQ.qdGOEGFUlF7qUsMab2ljFv0aAk4",
+    token: "NzMzNzAzMzczODA2NzY0MDU0.XxHHZw.RsxeXuH722-23VNN2gxfNu37vL8",
     prefix: "-",
     gameStatus: "HarleyTBS",
     statusType: "WATCHING",
